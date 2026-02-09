@@ -8,7 +8,7 @@ It supports **720p / 1080p (with best audio)**, shows a **live progress bar**, a
 ## ✨ Features
 
 - 📥 Download YouTube videos directly in **Google Colab**
-- 🎚️ Select video quality: **720p / 1080p**
+- 🎚️ Select video quality: **360p / 8K**
 - 🔊 Automatically merges **best available audio**
 - 📊 Real-time progress bar with:
   - Download percentage
@@ -95,7 +95,7 @@ Video Title [VideoID].mp4
 
 ---
 
-## 🛡️ Error Handling
+## 🛡️ Error Handlings
 
 - ❌ Invalid YouTube URL detection
 - ⚠️ Google Drive not mounted warning
@@ -107,7 +107,7 @@ Video Title [VideoID].mp4
 ## 📦 Powered By
 
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-- Google Colab
+- [Google Colab](https://colab.research.google.com/)
 - Python 3
 
 ---
@@ -115,7 +115,7 @@ Video Title [VideoID].mp4
 ## ⚠️ Disclaimer
 
 This project is for **educational and personal use only**.  
-Respect YouTube’s **Terms of Service** and the **content creator’s rights**.
+Respect [YouTube’s **Terms of Service**](https://www.youtube.com/t/terms?hl=en&override_hl=1) and the **content creator’s rights**.
 
 ---
 
