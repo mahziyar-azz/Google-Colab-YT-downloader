@@ -8,6 +8,7 @@ It supports **720p / 1080p (with best audio)**, shows a **live progress bar**, a
 ## ✨ Features
 
 - 📥 Download YouTube videos directly in **Google Colab**
+- 📥 Download YouTube Playlists/Courses Too
 - 🎚️ Select video quality: **360p / 8K**
 - 🔊 Automatically merges **best available audio**
 - 📊 Real-time progress bar with:
